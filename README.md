@@ -1,4 +1,4 @@
-<img align="left" src="https://i.postimg.cc/1XKnxFLM/crown-1.png">
+<img align="left" src="https://i.postimg.cc/hG0HdtW6/crown-2.png">
 
 [![twitter](https://img.shields.io/badge/-@anir_km-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/anir_km)  
 [![instagram](https://img.shields.io/badge/-@anir.km-313131?style=flat-square&labelColor=313131&logo=Instagram&logoColor=white&color=313131)](https://www.instagram.com/anir.km/)   
