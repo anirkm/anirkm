@@ -19,6 +19,10 @@
 
 <a href='https://github.com/YatsukiSama/github-stats-transparent'>
   
+  
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=yatsukisama&theme=dark)
+
+
 </a>
 
 <br>
